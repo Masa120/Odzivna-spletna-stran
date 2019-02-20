@@ -1,0 +1,45 @@
+#Glava {
+	background-color: red;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	height: 200px;
+	width: 950px;
+	}
+
+#Clanek {
+	background-color: yellow;
+	padding: 20px;
+	box-sizing: border-box;
+	margin: 10px 0;
+	min-height: 350px;
+	width: 950px;
+}
+
+#Noga {
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	height: 100px;
+	width: 950px;
+}
+
+#Navigacija {
+	background-color: orange;
+	width: 950px;
+	height: 70px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	list-style-type: none;
+	height: 30px;
+}
+
+
+
+.Kuza {
+	margin-left: 200px;
+}
